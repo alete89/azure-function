@@ -1,4 +1,4 @@
-GET https://simple-webhook-forward.azurewebsites.net/api/simple-webhook-forward?code=LUwYavyv6dkiva6lj0dB8cacI1BhF/yoMuAiPY79Kez8PyVU2NBytg==
+GET https://simple-webhook-forward.azurewebsites.net/api/simple-webhook-forward
 
 {
   "name": "alete"
