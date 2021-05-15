@@ -3,3 +3,10 @@ GET https://simple-webhook-forward.azurewebsites.net/api/simple-webhook-forward?
 {
   "name": "alete"
 }
+
+### Localhost
+GET http://localhost:7071/api/simple-webhook-forward
+
+{
+  "name": "alejandro"
+}
